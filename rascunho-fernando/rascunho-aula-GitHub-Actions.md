@@ -827,3 +827,13 @@ https://github.com/fernandomullerjr/github-actions-terraform-eks-traefik-app/pul
 16:19h
 na criação do apply
 - Ver sobre commits e histórico no Profile, na cobrinha.
+
+
+
+
+
+
+git remote remove origin
+git remote add origin git@github.com:fernandomullerjr/github-actions-terraform-eks-traefik.git
+
+git@github.com:fernandomullerjr/github-actions-terraform-eks-traefik.git
